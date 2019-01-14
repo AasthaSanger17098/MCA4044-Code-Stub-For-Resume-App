@@ -1,34 +1,42 @@
 # MCA 4044 App 1
+
 ## My Resume App
 
-___
+------
 
 In this project we are going to create a simple resume app.
 
-Prerequisites - 
+Prerequisites -
+
 1. Android Studio IDE 3.2.1
 2. Git
 3. GitHub Profile
 4. Android Device
 
-___
+------
 
-### Task 1 : How to clone a project?
+### Task 1 : How to clone a project? [Internet Connection Required]
 
--   Step 1 : Follow the link to any repository, for ex -
--   https://github.com/dbc2201/MCA4044-Code-Stub-For-Resume-App
+- Step 1 : Follow the link to any repository, for ex -
 
-    ![](https://github.com/dbc2201/MCA4044-Code-Stub-For-Resume-App/blob/master/app/src/main/res/drawable/follow_repo.png)
+- https://github.com/dbc2201/MCA4044-Code-Stub-For-Resume-App
 
--   Step 2 : Copy the link to clone the repository
+  ![](https://github.com/dbc2201/MCA4044-Code-Stub-For-Resume-App/blob/master/app/src/main/res/drawable/follow_repo.png?raw=true)
 
-    ![](https://github.com/dbc2201/MCA4044-Code-Stub-For-Resume-App/blob/master/app/src/main/res/drawable/clone_link.png)
+- Step 2 : Copy the link to clone the repository
 
--   Step 3 : Open Android Studio
+  ![](https://github.com/dbc2201/MCA4044-Code-Stub-For-Resume-App/blob/master/app/src/main/res/drawable/clone_link.png?raw=true)
 
-    ![](https://github.com/dbc2201/MCA4044-Code-Stub-For-Resume-App/blob/master/app/src/main/res/drawable/open_android_studio.png)
+- Step 3 : Open Android Studio
 
--   Step 4 : Select "Checko
+  ![](https://github.com/dbc2201/MCA4044-Code-Stub-For-Resume-App/blob/master/app/src/main/res/drawable/open_android_studio.png?raw=true)
 
+- Step 4 : Select "Check out project from Version Control"
 
+  ![](https://github.com/dbc2201/MCA4044-Code-Stub-For-Resume-App/blob/master/app/src/main/res/drawable/checkout_project.png?raw=true)
 
+- Step 5 : Paste the clone URL of the repository into Android Studio
+
+  ![](https://github.com/dbc2201/MCA4044-Code-Stub-For-Resume-App/blob/master/app/src/main/res/drawable/paste_link.png?raw=true)
+
+- Now, you only have to press Enter! Android Studio will load the project for you!
