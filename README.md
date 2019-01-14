@@ -18,7 +18,7 @@ ___
 -   Step 1 : Follow the link to any repository, for ex -
 -   https://github.com/dbc2201/MCA4044-Code-Stub-For-Resume-App
 
-    ![]()
+    ![](https://github.com/dbc2201/MCA4044-Code-Stub-For-Resume-App/blob/master/app/src/main/res/drawable/follow_repo.png)
 
 -   Step 2 : Copy the link to clone the repository
 -
