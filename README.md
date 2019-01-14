@@ -13,7 +13,7 @@ Prerequisites -
 
 ___
 
-### Task 1 : How to fork a project?
+### Task 1 : How to clone a project?
 
 -   Step 1 : Follow the link to any repository, for ex -
 -   https://github.com/dbc2201/MCA4044-Code-Stub-For-Resume-App
