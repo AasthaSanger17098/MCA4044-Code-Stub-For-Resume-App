@@ -24,4 +24,11 @@ ___
 
     ![](https://github.com/dbc2201/MCA4044-Code-Stub-For-Resume-App/blob/master/app/src/main/res/drawable/clone_link.png)
 
+-   Step 3 : Open Android Studio
+
+    ![](https://github.com/dbc2201/MCA4044-Code-Stub-For-Resume-App/blob/master/app/src/main/res/drawable/open_android_studio.png)
+
+-   Step 4 : Select "Checko
+
+
 
