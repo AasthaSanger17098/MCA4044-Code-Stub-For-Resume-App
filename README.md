@@ -15,8 +15,12 @@ ___
 
 ### Task 1 : How to fork a project?
 
-    -   Step 1 : Follow the link to any repository, for ex -
-    -   https://github.com/dbc2201/MCA4044-Code-Stub-For-Resume-App
+-   Step 1 : Follow the link to any repository, for ex -
+-   https://github.com/dbc2201/MCA4044-Code-Stub-For-Resume-App
 
+    ![]()
+
+-   Step 2 : Copy the link to clone the repository
+-
 
 
